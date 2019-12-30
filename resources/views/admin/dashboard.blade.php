@@ -44,7 +44,7 @@
                         </div>
                         <div class="col-lg-9 col-md-8 col-sm-8 col-8 fontsty">
                             <h4>Session</h4>
-                            <h2>0</h2>
+                            <h2>{{\App\ClassSession::count()}}</h2>
                         </div>
                     </div>
                 </div>
