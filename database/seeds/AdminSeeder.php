@@ -15,7 +15,7 @@ class AdminSeeder extends Seeder
             'name' => "Administrator",
             'email' => "admin@presensi.uad.ac.id",
             'password' => bcrypt('admin'),
-            'avatar' => "users/default.png",
+            'avatar' => "https://fkip.uad.ac.id/wp-content/uploads/Logo-UAD-Berwarna-300x300.png",
             'id_number' => "001",
             'role_id' => 1
         ]);
