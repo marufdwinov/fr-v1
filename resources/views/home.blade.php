@@ -1,1 +1,1 @@
-<script>window.location = "/admin/overview";</script>
+<script>window.location = "/admin";</script>
